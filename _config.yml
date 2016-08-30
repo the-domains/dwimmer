@@ -1,19 +1,4 @@
-name: dwimmer
-favicon: null
-layout_spectrum: 0.05307137966156006
 typography_spectrum: 0.99116
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,20 @@ color:
   lightness: 0.7622638689354062
   saturation: 0.6360691823065281
   rhythmicContrast: 0.4187858847435564
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.05307137966156006
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: dwimmer
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Tie One On
 purpose: []
